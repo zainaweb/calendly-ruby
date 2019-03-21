@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Calendly APi webhook and invites}
   spec.description   = %q{connect ruby to Calendly APi}
-  spec.homepage      = "Thttps://github.com/zainaweb/calendly-ruby"
+  spec.homepage      = "https://github.com/zainaweb/calendly-ruby"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
